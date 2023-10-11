@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arigo-b2
-- 👀 I’m interested in sotware development
+- 👀 I’m interested in software engineering
 
 
 <!---
